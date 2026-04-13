@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1840 840" width="1840" height="840">
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap");
+    .connector { stroke: #bdc3c7; stroke-dasharray: 5 5; stroke-width: 2; fill: none; }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="white"/>
+
+  <!-- Main Title Box -->
+  <g>
+    <filter id="shadow-main" x="-10%" y="-10%" width="120%" height="120%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <g filter="url(#shadow-main)">
+      <rect x="840" y="22" width="160" height="78" rx="8" ry="8" fill="#f0f0f0"/>
+      <rect x="840" y="22" width="160" height="30" rx="8" ry="0" fill="#6a1b9a"/>
+    </g>
+    <text x="920" y="44" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">AI Usage</text>
+    <text x="920" y="77" fill="#666" font-family="Libre Franklin, Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">A Taxonomy</text>
+  </g>
+
+  <line class="connector" x1="920" y1="100" x2="920" y2="115"/>
+
+  <line class="connector" x1="370" y1="115" x2="1260" y2="115"/>
+
+  <line class="connector" x1="370" y1="115" x2="370" y2="150"/>
+
+  <defs>
+    <filter id="shadow-cat-1" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-cat-1)">
+    <rect x="210" y="150" width="320" height="156" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="210" y="150" width="320" height="40" rx="8" ry="0" fill="#c62828"/>
+  </g>
+  <text x="370" y="176" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Automation</text>
+  <text x="370" y="210.0" fill="#c62828" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Never Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="222" y="230.0" fill="#555">&quot;Interaction patterns focused on task completion.&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="222" y="252.0"><tspan fill="#c62828" font-weight="bold">Honor violation: </tspan><tspan fill="#333">AI is driving the intellectual work</tspan></tspan>
+<tspan x="222" y="266.0" fill="#333">(with or without your feedback) so this is always an</tspan>
+<tspan x="222" y="280.0" fill="#333">honor violation</tspan></text>
+  <line class="connector" x1="370" y1="306" x2="370" y2="358"/>
+
+  <line class="connector" x1="200" y1="358" x2="540" y2="358"/>
+
+  <line class="connector" x1="200" y1="358" x2="200" y2="388"/>
+
+  <defs>
+    <filter id="shadow-child-2" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-child-2)">
+    <rect x="40" y="388" width="320" height="170" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="40" y="388" width="320" height="40" rx="8" ry="0" fill="#c62828"/>
+  </g>
+  <text x="200" y="414" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Directive Automation</text>
+  <text x="200" y="448.0" fill="#c62828" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Never Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="52" y="468.0" fill="#555">&quot;Users give AI a task and it completes it with</tspan>
+<tspan x="52" y="482.0" fill="#555">minimal back-and-forth&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="52" y="504.0"><tspan fill="#c62828" font-weight="bold">Examples: </tspan><tspan fill="#333">Asking AI to write your outline, do your</tspan></tspan>
+<tspan x="52" y="518.0" fill="#333">research, write a paragraph, a section, or your whole</tspan>
+<tspan x="52" y="532.0" fill="#333">paper</tspan></text>
+  <line class="connector" x1="540" y1="358" x2="540" y2="388"/>
+
+  <defs>
+    <filter id="shadow-child-3" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-child-3)">
+    <rect x="380" y="388" width="320" height="184" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="380" y="388" width="320" height="40" rx="8" ry="0" fill="#c62828"/>
+  </g>
+  <text x="540" y="414" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Feedback Loops</text>
+  <text x="540" y="448.0" fill="#c62828" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Never Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="392" y="468.0" fill="#555">&quot;Users automate tasks and provide feedback to AI as</tspan>
+<tspan x="392" y="482.0" fill="#555">needed&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="392" y="504.0"><tspan fill="#c62828" font-weight="bold">Examples: </tspan><tspan fill="#333">Asking AI to write your outline, do your</tspan></tspan>
+<tspan x="392" y="518.0" fill="#333">research, or write a paragraph, section, or the whole</tspan>
+<tspan x="392" y="532.0" fill="#333">paper, then asking AI to redo the work after you read</tspan>
+<tspan x="392" y="546.0" fill="#333">it.</tspan></text>
+  <line class="connector" x1="1260" y1="115" x2="1260" y2="150"/>
+
+  <defs>
+    <filter id="shadow-cat-4" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-cat-4)">
+    <rect x="1100" y="150" width="320" height="178" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="1100" y="150" width="320" height="40" rx="8" ry="0" fill="#6a1b9a"/>
+  </g>
+  <text x="1260" y="176" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Augmentation</text>
+  <text x="1260" y="210.0" fill="#6a1b9a" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Sometimes Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="1112" y="230.0" fill="#555">&quot;Collaborative interaction patterns&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1112" y="252.0"><tspan fill="#0288d1" font-weight="bold">Allowed: </tspan><tspan fill="#333">Allowed if you are driving the intellectual</tspan></tspan>
+<tspan x="1112" y="266.0" fill="#333">work, with feedback or teaching from AI.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1112" y="288.0"><tspan fill="#c62828" font-weight="bold">Honor violation: </tspan><tspan fill="#333">Honor violation if AI is driving the</tspan></tspan>
+<tspan x="1112" y="302.0" fill="#333">intellectual work with your feedback.</tspan></text>
+  <line class="connector" x1="1260" y1="328" x2="1260" y2="358"/>
+
+  <line class="connector" x1="920" y1="358" x2="1600" y2="358"/>
+
+  <line class="connector" x1="920" y1="358" x2="920" y2="388"/>
+
+  <defs>
+    <filter id="shadow-child-5" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-child-5)">
+    <rect x="760" y="388" width="320" height="412" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="760" y="388" width="320" height="40" rx="8" ry="0" fill="#6a1b9a"/>
+  </g>
+  <text x="920" y="414" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Task Iteration</text>
+  <text x="920" y="448.0" fill="#6a1b9a" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Sometimes Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="772" y="468.0" fill="#555">&quot;Users iterate on tasks collaboratively with AI.&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="772" y="490.0"><tspan fill="#0288d1" font-weight="bold">Allowed: </tspan><tspan fill="#333">Can be allowed if you are doing the core</tspan></tspan>
+<tspan x="772" y="504.0" fill="#333">intellectual work—outlining, researching, writing—AI</tspan>
+<tspan x="772" y="518.0" fill="#333">is providing feedback, and you are adapting in</tspan>
+<tspan x="772" y="532.0" fill="#333">response to feedback.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="772" y="554.0"><tspan fill="#0288d1" font-weight="bold">Good example: </tspan><tspan fill="#333">You make an outline → ask AI for</tspan></tspan>
+<tspan x="772" y="568.0" fill="#333">feedback → you reflect on AI’s criticisms and decide</tspan>
+<tspan x="772" y="582.0" fill="#333">one is warranted → you go away and rewrite your</tspan>
+<tspan x="772" y="596.0" fill="#333">outline in response → you have a back-and-forth</tspan>
+<tspan x="772" y="610.0" fill="#333">conversation with AI about whether your response</tspan>
+<tspan x="772" y="624.0" fill="#333">addresses the criticism.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="772" y="646.0"><tspan fill="#c62828" font-weight="bold">Honor violation: </tspan><tspan fill="#333">Honor violation if task iteration</tspan></tspan>
+<tspan x="772" y="660.0" fill="#333">turns into feedback loops, where AI is driving the</tspan>
+<tspan x="772" y="674.0" fill="#333">intellectual work.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="772" y="696.0"><tspan fill="#c62828" font-weight="bold">Bad example: </tspan><tspan fill="#333">You make an outline → ask AI for</tspan></tspan>
+<tspan x="772" y="710.0" fill="#333">feedback → ask AI to rewrite outline in response to</tspan>
+<tspan x="772" y="724.0" fill="#333">feedback → give AI feedback and ask to rewrite.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="772" y="746.0"><tspan fill="#6a1b9a" font-weight="bold">Heuristic: </tspan><tspan fill="#333">Ask yourself, “who is doing the</tspan></tspan>
+<tspan x="772" y="760.0" fill="#333">intellectual work, (vs providing feedback)?” Answer</tspan>
+<tspan x="772" y="774.0" fill="#333">must be, “the human, duh!”</tspan></text>
+  <line class="connector" x1="1260" y1="358" x2="1260" y2="388"/>
+
+  <defs>
+    <filter id="shadow-child-6" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-child-6)">
+    <rect x="1100" y="388" width="320" height="220" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="1100" y="388" width="320" height="40" rx="8" ry="0" fill="#0288d1"/>
+  </g>
+  <text x="1260" y="414" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Validation</text>
+  <text x="1260" y="448.0" fill="#0288d1" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Usually Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="1112" y="468.0" fill="#555">&quot;Users ask AI for feedback on their work&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1112" y="490.0" fill="#333">Can be a great way to develop your skills, so long as</tspan>
+<tspan x="1112" y="504.0" fill="#333">it does not turn into AI-driven feedback loops where</tspan>
+<tspan x="1112" y="518.0" fill="#333">you ask AI to redo your work and copy–paste what it</tspan>
+<tspan x="1112" y="532.0" fill="#333">says.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1112" y="554.0"><tspan fill="#0288d1" font-weight="bold">Example: </tspan><tspan fill="#333">You ask AI for feedback on the logic of an</tspan></tspan>
+<tspan x="1112" y="568.0" fill="#333">argument you wrote, or for tips about how to improve</tspan>
+<tspan x="1112" y="582.0" fill="#333">your writing, and then revise your work on your own.</tspan></text>
+  <line class="connector" x1="1600" y1="358" x2="1600" y2="388"/>
+
+  <defs>
+    <filter id="shadow-child-7" x="-20%" y="-20%" width="140%" height="140%">
+      <feOffset dx="-4" dy="4"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow-child-7)">
+    <rect x="1440" y="388" width="320" height="178" rx="8" ry="8" fill="#f0f0f0"/>
+    <rect x="1440" y="388" width="320" height="40" rx="8" ry="0" fill="#0288d1"/>
+  </g>
+  <text x="1600" y="414" fill="white" font-family="Libre Franklin, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Learning</text>
+  <text x="1600" y="448.0" fill="#0288d1" font-family="Libre Franklin, Arial, sans-serif" font-size="13" font-style="italic" text-anchor="middle">Usually Allowed</text>
+  <text font-family="Libre Franklin, Arial, sans-serif" font-size="12" font-style="italic"><tspan x="1452" y="468.0" fill="#555">&quot;Users ask AI for information or explanations&quot;</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1452" y="490.0" fill="#333">Usually allowed. Use AI to learn about various</tspan>
+<tspan x="1452" y="504.0" fill="#333">topics, ask questions to deepen your understanding.</tspan></text><text font-family="Libre Franklin, Arial, sans-serif" font-size="12"><tspan x="1452" y="526.0"><tspan fill="#0288d1" font-weight="bold">Example: </tspan><tspan fill="#333">Asking AI to explain a concept, discussing</tspan></tspan>
+<tspan x="1452" y="540.0" fill="#333">ideas with AI, having AI teach you about a topic.</tspan></text>
+</svg>
