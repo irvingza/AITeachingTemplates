@@ -8,3 +8,5 @@ One challenge is to develop a framework that we can use to communicate this diff
 AITeachingTemplates is filling that gap. We start with a taxonomy of AI usage––distinguishing [automation from augmentation](https://www.anthropic.com/research/economic-index-primitives)––from Anthropic’s Economics research team. 
 Professors would then use the app to select what uses of AI are allowed and disallowed in their classes and fill in details to explain the appropriate and inappropriate use-cases. 
 The app outputs a diagram like the following, which you can include on a course website, syllabus, etc.:
+
+![AI Taxonomy Diagram](ai_taxonomy_20260215_192639.svg)
