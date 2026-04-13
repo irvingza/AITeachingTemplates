@@ -13,7 +13,7 @@ The app outputs a diagram like the following, which you can include on a course 
 
 The UI looks like this:
 
-![AI Taxonomy UI](AI Teaching Templates UI.png)
+![AI Taxonomy UI](AI Teaching Template UI.png)
 
 Professors use this UI to
 
