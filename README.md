@@ -1,4 +1,4 @@
-AITeachingTemplate's goal is to help professors design and communicate AI policies in their classroom. 
+AITeachingTemplates is an [R shiny app (hosted here)](https://zacirving.shinyapps.io/AITeachingTemplates/), whose goal is to help professors design and communicate AI policies in their classroom. It
 The idea is this: one barrier to effective AI policy is that professors and students don’t have a shared understanding of the different ways that we can use AI. 
 In particular, our paradigm for AI usage is often restricted to automation: that is, offloading a task to AI (with or without feedback). 
 But automation is usually inappropriate in educational contexts, where students are supposed to build critical thinking skills for themselves. 
