@@ -10,3 +10,14 @@ Professors would then use the app to select what uses of AI are allowed and disa
 The app outputs a diagram like the following, which you can include on a course website, syllabus, etc.:
 
 ![AI Taxonomy Diagram](ai_taxonomy_20260215_192639.svg)
+
+The UI looks like this:
+
+![AI Taxonomy UI](AI Teaching Templates UI.png)
+
+Professors use this UI to
+
+1. Select which uses are allowed and disallowed
+2. Add descriptions of the use cases (including optional examples)
+3. Save their taxonomies as .svg files, which can be included on course websites
+4. Save the data to generate the taxonomies as .csv files, and then load those csvs at at later date
